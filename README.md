@@ -1,5 +1,6 @@
 # Spam-ham
-The aim is to classify the mails in to 2 categories : Spam and Ham \n
+The aim is to classify the mails in to 2 categories : Spam and Ham
+
 The dataset : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 ## The techniques used:
    1. NLP : Natural Language Processing 
